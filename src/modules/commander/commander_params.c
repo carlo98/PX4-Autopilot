@@ -909,7 +909,7 @@ PARAM_DEFINE_INT32(NAV_RCL_ACT, 2);
  * @bit 2 Offboard
  * @group Commander
  */
-PARAM_DEFINE_INT32(COM_RCL_EXCEPT, 0);
+PARAM_DEFINE_INT32(COM_RCL_EXCEPT, 4);
 
 /**
  * Flag to enable obstacle avoidance.
