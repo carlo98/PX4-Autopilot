@@ -43,7 +43,8 @@
     </physics>
 
     <model name="irlock_beacon">
-      <pose>0.5 1.5 0.06 0 0 0</pose>
+      <static>true</static>
+      <pose>0.5 1.5 0.1 0 0 0</pose>
       <link name="link">
          <inertial>
           <pose>0 0 0 0 0 0</pose>
